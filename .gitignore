@@ -1,0 +1,9 @@
+__pycache__/
+.mypy_cache/
+Dockerfile
+.venv/
+env*
+.vscode/
+k8s/
+manifests/
+package-shipping.yaml
