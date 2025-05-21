@@ -1,0 +1,10 @@
+__pycache__/
+.mypy_cache/
+Dockerfile
+.venv/
+env*
+__pycache__/
+.mypy_cache/
+k8s/
+manifests/
+*.genai
